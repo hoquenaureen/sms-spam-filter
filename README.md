@@ -8,7 +8,8 @@ environments like Google Colab. Our notebook requires the following Python libra
 numpy, pandas, seaborn , and requests . Further instructions on executing the code can be found within
 Markdown cells in the notebook file.
 
-References
+### References
+
 [1] Almeida, T.A., Gómez Hidalgo, J.M., Yamakami, A. Contributions to the Study of SMS Spam
 Filtering: New Collection and Results. Proceedings of the 2011 ACM Symposium on Document
 Engineering (DOCENG'11), Mountain View, CA, USA, 2011.
